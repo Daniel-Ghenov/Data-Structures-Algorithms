@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Gym_Maths",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Gym_Maths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gym_Maths-Debug-48bea1d48419f2e47e19.json",
+					"name" : "Gym_Maths",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PC-Admin/Desktop/Code/CPP-2/Uni/DSA/Homeworks/HW2/Gym Maths/cmake-build-debug",
+		"source" : "C:/Users/PC-Admin/Desktop/Code/CPP-2/Uni/DSA/Homeworks/HW2/Gym Maths"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
