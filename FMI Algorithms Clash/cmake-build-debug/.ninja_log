@@ -1,0 +1,5 @@
+# ninja log v5
+2	496	7679955459798001	CMakeFiles/FMI_Algorithms_Clash.dir/task.cpp.obj	82997edaf1d75f7c
+497	648	7679955461203832	FMI_Algorithms_Clash.exe	607edc6b804ab5d0
+2	386	7679948891194854	CMakeFiles/FMI_Algorithms_Clash.dir/generateInputs.cpp.obj	50dc861b7384eda3
+0	143	7740156983017356	build.ninja	a0cfaf4efbd335a8
